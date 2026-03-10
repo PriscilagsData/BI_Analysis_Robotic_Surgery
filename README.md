@@ -158,10 +158,6 @@ Proyecto realizado en el marco de:
 
 ---
 
-⭐ Si te interesa el análisis de datos aplicado a **salud, tecnología médica y estrategia**, te invito a explorar el dashboard completo.
-
----
-
 ## 👥 Integrantes
 
 - **Nicolas Montuelle**  
