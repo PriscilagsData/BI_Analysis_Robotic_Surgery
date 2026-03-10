@@ -7,7 +7,7 @@
 
 ---
 
-# 📊 Proyecto de análisis estratégico para tecnología médica
+## 📊 Proyecto de análisis estratégico para tecnología médica
 
 Este proyecto desarrolla un **modelo de Business Intelligence aplicado al mercado de robótica quirúrgica en Latinoamérica**, con el objetivo de evaluar la **viabilidad económica y estratégica del robot quirúrgico Justina**.
 
@@ -15,7 +15,7 @@ Se construyó un **pipeline de datos completo**, desde la recolección de inform
 
 ---
 
-# 🚨 El Problema
+### 🚨 El Problema
 
 La **robótica quirúrgica ofrece enormes beneficios clínicos**, pero su adopción en Latinoamérica sigue siendo limitada.
 
@@ -31,6 +31,15 @@ Esto genera un problema crítico:
 > Los hospitales y desarrolladores de tecnología médica **no cuentan con información estratégica suficiente para tomar decisiones informadas sobre la adopción de cirugía robótica.**
 
 Este proyecto busca **resolver ese vacío mediante análisis de datos y Business Intelligence**.
+
+---
+
+### 👩🏻‍💻 Mi rol
+
+**Data Analyst**: planteo estratégico del problema, diseño de modelo (tabla Países, tabla Hospitales y tabla Competidores), toma de decisión del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño íntegro del tablero final definiendo insights.
+
+**BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
+
 
 ---
 
