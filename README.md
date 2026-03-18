@@ -1,36 +1,35 @@
-# 🏥 Business Intelligence para Robótica Quirúrgica – Proyecto Justina
+### 🏥 Business Intelligence para Robótica Quirúrgica – Proyecto Justina
 
 ![BI](https://img.shields.io/badge/Business%20Intelligence-HealthTech-blue)
 ![Data](https://img.shields.io/badge/Data%20Analysis-LATAM-green)
 ![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-yellow)
 ![SQL](https://img.shields.io/badge/Database-SQLServer-red)
+![Python](https://img.shields.io/badge/Database-Python-blue)
 
----
-
-## 📊 Proyecto de análisis estratégico para tecnología médica
-
-Este proyecto desarrolla un **modelo de Business Intelligence aplicado al mercado de robótica quirúrgica en Latinoamérica**, con el objetivo de evaluar la **viabilidad económica y estratégica del robot quirúrgico Justina**.
+**Modelo de Business Intelligence aplicado al mercado de robótica quirúrgica en Latinoamérica**, con el objetivo de evaluar la **viabilidad económica y estratégica del robot quirúrgico Justina**.</sub>
 
 Se construyó un **pipeline de datos completo**, desde la recolección de información pública y benchmarks del sector hasta el modelado y visualización en dashboards interactivos.
 
 ---
 
-### 🚨 El Problema
+#### 📊 Presentación de caso
 
-La **robótica quirúrgica ofrece enormes beneficios clínicos**, pero su adopción en Latinoamérica sigue siendo limitada.
+La robótica quirúrgica ha demostrado beneficios clínicos, pero su adopción sigue siendo limitada debido a altos costos, modelos de negocio poco claros y dificultades para justificar la inversión en hospitales públicos y privados. La falta de análisis estructurado de datos económicos, operativos y de mercado impide tomar decisiones informadas sobre dónde, cómo y para quién desarrollar soluciones de robótica quirúrgica accesibles y sostenibles.
 
-Las principales barreras son:
+Un equipo académico-tecnológico está evaluando la factibilidad de desarrollar Justina, un robot asistido para cirugía renal mínimamente invasiva.
+En esta etapa temprana, uno de los principales desafíos no es solo tecnológico, sino estratégico y económico: comprender si existe un modelo de adopción viable para robótica quirúrgica en contextos como América Latina.
 
-- 💰 **Altos costos de adquisición**
-- 📉 **Falta de modelos económicos claros**
-- 🏥 **Dificultad para justificar la inversión hospitalaria**
-- 📊 **Ausencia de análisis de mercado estructurado**
+> Objetivo:
+> 
+> - Analizar el mercado potencial de robótica quirúrgica (TAM, SAM, SOM) con foco regional.
+> - Comparar costos y modelos de negocio de soluciones existentes (ej. da Vinci, Versius, Hugo RAS).
+> - Diseñar un modelo económico preliminar para Justina (CAPEX, OPEX, TCO).
+> - Explorar estrategias de adopción en hospitales públicos, privados y universitarios.
+> - Definir indicadores clave (KPIs) para evaluar impacto clínico y económico.
 
-Esto genera un problema crítico:
+El resultado esperado es un **modelo de negocio y adopción basado en datos**, que permita evaluar la viabilidad económica del proyecto y sirva como insumo para financiamiento, alianzas estratégicas y decisiones de diseño.
 
-> Los hospitales y desarrolladores de tecnología médica **no cuentan con información estratégica suficiente para tomar decisiones informadas sobre la adopción de cirugía robótica.**
-
-Este proyecto busca **resolver ese vacío mediante análisis de datos y Business Intelligence**.
+> NO SE PROVEE NINGÚN TIPO DE DATO INICIAL PARA EL ESTUDIO
 
 ---
 
