@@ -5,11 +5,6 @@
 ![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-yellow)
 ![SQL](https://img.shields.io/badge/Database-SQLServer-red)
 ![Python](https://img.shields.io/badge/Database-Python-blue)
-
-**Modelo de Business Intelligence aplicado al mercado de robótica quirúrgica en Latinoamérica**, con el objetivo de evaluar la **viabilidad económica y estratégica del robot quirúrgico Justina**.</sub>
-
-Se construyó un **pipeline de datos completo**, desde la recolección de información pública y benchmarks del sector hasta el modelado y visualización en dashboards interactivos.
-
 ---
 
 #### 📊 Presentación de caso
@@ -27,7 +22,7 @@ En esta etapa temprana, uno de los principales desafíos no es solo tecnológico
 > - Explorar estrategias de adopción en hospitales públicos, privados y universitarios.
 > - Definir indicadores clave (KPIs) para evaluar impacto clínico y económico.
 
-El resultado esperado es un **modelo de negocio y adopción basado en datos**, que permita evaluar la viabilidad económica del proyecto y sirva como insumo para financiamiento, alianzas estratégicas y decisiones de diseño.
+El resultado esperado es un **modelo de negocio en heathtech y adopción basado en datos**, que permita evaluar la **viabilidad económica del proyecto en LATAM y sirva como insumo para financiamiento, alianzas estratégicas y decisiones de diseño**.
 
 > NO SE PROVEE NINGÚN TIPO DE DATO INICIAL PARA EL ESTUDIO
 
@@ -39,50 +34,13 @@ El resultado esperado es un **modelo de negocio y adopción basado en datos**, q
 
 **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
 
-
 ---
+#### 📚 Documentación del Proyecto
 
-# 🎯 Objetivo del Proyecto
-
-Construir un **modelo analítico que permita evaluar la adopción de robótica quirúrgica en Latinoamérica**, considerando:
-
-- Mercado potencial (**TAM / SAM / SOM**)
-- Costos de tecnología médica (**CAPEX / OPEX / TCO**)
-- Competidores tecnológicos
-- Capacidad hospitalaria regional
-- Demanda potencial de cirugías renales
-
-El resultado es un **sistema de análisis orientado a decisiones estratégicas e inversión en healthtech**.
-
----
-## 📚 Documentación del Proyecto
-
-En este apartado se encuentra el informe completo del proyecto, donde se detalla el análisis realizado, la metodología utilizada y las conclusiones obtenidas.
+Se construyó un **pipeline de datos completo**, desde la recolección de información pública y benchmarks del sector hasta el modelado y visualización en dashboards interactivos.
 
 📄 **Descargar o visualizar el informe completo:**  
 [Informe del Proyecto (PDF)](https://github.com/No-Country-simulation/S02-26-Equipo-63-BI/blob/main/informes_proyecto_pdf/Business%20Intelligence%20para%20rob%C3%B3tica%20quir%C3%BArgica%20Justina%20-%20E63.pdf)
-
----
-# 🧰 Tecnologías Utilizadas
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-
-</p>
-
-**Stack del proyecto**
-
-- 🐍 Python  
-- 🗄 SQL Server  
-- 📊 Power BI  
-- ☁ AWS  
-- 📋 Excel / Google Sheets  
-- 🧠 IA (GPT, Gemini, Perplexity, Qwen)
 
 ---
 
@@ -156,8 +114,30 @@ El análisis permite:
 Este enfoque permite transformar **datos dispersos en decisiones estratégicas basadas en evidencia**.
 
 ---
+#### 🧰 Tecnologías Utilizadas
 
-# 👨‍💻 Contexto del Proyecto
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+
+</p>
+
+**Stack del proyecto**
+
+- 🐍 Python  
+- 🗄 SQL Server  
+- 📊 Power BI  
+- ☁ AWS  
+- 📋 Excel / Google Sheets  
+- 🧠 IA (GPT, Gemini, Perplexity, Qwen)
+
+---
+
+# 👨‍💻 Contexto
 
 Proyecto realizado en el marco de:
 
@@ -168,13 +148,13 @@ Proyecto realizado en el marco de:
 
 ## 👥 Integrantes
 
-- **Nicolas Montuelle**  
-  <a href="https://www.linkedin.com/in/nicolasmontuelle06/" target="_blank">
+- **Priscila Gutierrez Sídoli**  
+  <a href="https://www.linkedin.com/in/priscilagsidoliiq/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
 
-- **Priscila Gutierrez Sídoli**  
-  <a href="https://www.linkedin.com/in/priscilagsidoliiq/" target="_blank">
+- **Nicolas Montuelle**  
+  <a href="https://www.linkedin.com/in/nicolasmontuelle06/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
 
