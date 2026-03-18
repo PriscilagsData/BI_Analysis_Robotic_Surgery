@@ -14,16 +14,15 @@ En esta etapa temprana, uno de los principales desafíos no es solo tecnológico
 
 > Objetivo:
 > 
-> - Analizar el mercado potencial de robótica quirúrgica (TAM, SAM, SOM) con foco regional.
-> - Comparar costos y modelos de negocio de soluciones existentes (ej. da Vinci, Versius, Hugo RAS).
-> - Diseñar un modelo económico preliminar para Justina (CAPEX, OPEX, TCO).
-> - Explorar estrategias de adopción en hospitales públicos, privados y universitarios.
-> - Definir indicadores clave (KPIs) para evaluar impacto clínico y económico.
+> - Analizar el **mercado potencial** de robótica quirúrgica (TAM, SAM, SOM) con foco regional.
+> - **Comparar costos y modelos** de negocio de soluciones existentes (ej. da Vinci, Versius, Hugo RAS).
+> - Diseñar un **modelo económico preliminar** para Justina (CAPEX, OPEX, TCO).
+> - Explorar **estrategias de adopción** en hospitales públicos, privados y universitarios.
+> - Definir **indicadores clave (KPIs)** para evaluar impacto clínico y económico.
 
 El resultado esperado es un **modelo de negocio en heathtech y adopción basado en datos**, que permita evaluar la **viabilidad económica del proyecto en LATAM y sirva como insumo para financiamiento, alianzas estratégicas y decisiones de diseño**.
 
 > **NO SE PROVEE NINGÚN DATO INICIAL PARA EL ESTUDIO**
-
 ---
 
 ### 👩🏻‍💻 Mi rol
@@ -31,7 +30,6 @@ El resultado esperado es un **modelo de negocio en heathtech y adopción basado 
 - **Data Analyst**: planteo estratégico del problema, diseño de modelo (tabla Países, tabla Hospitales y tabla Competidores), toma de decisión del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño íntegro del tablero final definiendo insights.
 
 - **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
-
 ---
 #### 📚 Documentación del Proyecto
 
