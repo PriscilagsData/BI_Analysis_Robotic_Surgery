@@ -9,8 +9,6 @@
 
 #### 📊 Presentación de caso
 
-La robótica quirúrgica ha demostrado beneficios clínicos, pero su adopción sigue siendo limitada debido a altos costos, modelos de negocio poco claros y dificultades para justificar la inversión en hospitales públicos y privados. La falta de análisis estructurado de datos económicos, operativos y de mercado impide tomar decisiones informadas sobre dónde, cómo y para quién desarrollar soluciones de robótica quirúrgica accesibles y sostenibles.
-
 Un equipo académico-tecnológico está evaluando la factibilidad de desarrollar Justina, un robot asistido para cirugía renal mínimamente invasiva.
 En esta etapa temprana, uno de los principales desafíos no es solo tecnológico, sino estratégico y económico: comprender si existe un modelo de adopción viable para robótica quirúrgica en contextos como América Latina.
 
@@ -24,15 +22,15 @@ En esta etapa temprana, uno de los principales desafíos no es solo tecnológico
 
 El resultado esperado es un **modelo de negocio en heathtech y adopción basado en datos**, que permita evaluar la **viabilidad económica del proyecto en LATAM y sirva como insumo para financiamiento, alianzas estratégicas y decisiones de diseño**.
 
-> NO SE PROVEE NINGÚN TIPO DE DATO INICIAL PARA EL ESTUDIO
+> **NO SE PROVEE NINGÚN DATO INICIAL PARA EL ESTUDIO**
 
 ---
 
 ### 👩🏻‍💻 Mi rol
 
-**Data Analyst**: planteo estratégico del problema, diseño de modelo (tabla Países, tabla Hospitales y tabla Competidores), toma de decisión del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño íntegro del tablero final definiendo insights.
+- **Data Analyst**: planteo estratégico del problema, diseño de modelo (tabla Países, tabla Hospitales y tabla Competidores), toma de decisión del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño íntegro del tablero final definiendo insights.
 
-**BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
+- **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
 
 ---
 #### 📚 Documentación del Proyecto
