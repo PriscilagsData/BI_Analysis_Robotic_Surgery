@@ -27,9 +27,9 @@ El resultado esperado es un **modelo de negocio en heathtech y adopción basado 
 
 ### 👩🏻‍💻 Mi rol
 
-- **Data Analyst**: planteo estratégico del problema, diseño de modelo (db Países, Hospitales y Competidores), establecimiento del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño y armado del tablero final definiendo insights.
+- **Data Analyst**: planteo estratégico del problema, diseño del modelo (db Países, Hospitales, Competidores, relaciones), establecimiento del enfoque de la búsqueda y los objetivos del proyecto. Búsqueda y verificación de datos de fuentes confiables. ETL en Power Query dentro del entorno Power BI y diseño y armado del tablero final definiendo insights.
 
-- **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
+- **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech de la presentación.
 ---
 #### 📚 Documentación del Proyecto
 
@@ -40,65 +40,63 @@ Se construyó un **pipeline de datos completo**, desde la recolección de inform
 
 ---
 
-# 🗄 Modelo de Datos
+#### 🗄 Modelo de Datos 
 
-El proyecto se basa en un **modelo relacional orientado al análisis del ecosistema de cirugía robótica en LATAM**.
-
-Principales entidades:
-
-- Países
-- Hospitales
-- Competidores tecnológicos
-- Relación hospitales–robots
-- Cotizaciones
-
-### 📷 Ver modelo SQL
+Construido a partir de código **Python** aplicando **Machine Learning con IA generativa**. Se muestra el modelo relacional creado en **SQLServer**:
 
 ![Modelo SQL](vistas_proyecto/5_modelo_datos_justina_SQL_Server.png)
-
-- Para el funcionamiento del código python de este repositorio se deben reemplazar variables por credenciales confidenciales
-- Los API de Gemini también son confidenciales
   
 ---
 
-# 📊 Dashboard de Business Intelligence
+## 📊 Reporte BI
 
-El análisis final se presenta mediante un **dashboard interactivo en Power BI**, donde se pueden explorar:
+<sub>Preguntas "disparadoras" que dieron pie a la estrucuración del análisis:</sub>
 
-- Distribución de robots quirúrgicos en LATAM  
-- Hospitales que adoptaron tecnología robótica  
-- Análisis de costos de adquisición  
-- Comparación entre competidores  
-- Estimación del mercado potencial  
+<sub>- Caracterización de la cirugía robótica actual presente en Latinoamérica</sub>
+
+<sub>  ¿La tecnología de cirugía robótica ya está presente en Latinoamérica? ¿En qué países de la región?</sub>
+<sub>  ¿Qué tecnologías fueron adquiridas? ¿Cuál predomina actualmente?</sub>
+<sub>  ¿Los robots son adquiridos solo por hospitales o instituciones privadas dado su alto costo? ¿O los gobiernos de LATAM también apuestan a la inversión en estas tecnologías para sus hospitales públicos?</sub>
+<sub>  ¿Qué tipos de cirugía se realizan?</sub>
+
+<sub>- Caracterización de los competidores</sub>
+
+<sub>  ¿Cuáles son los robots que se comercializan en LATAM? ¿Qué compañías lo desarrollan?</sub>
+<sub>  ¿Para qué tipo de cirugía aplica cada uno?</sub>
+<sub>  ¿Qué aspectos los diferencian?</sub>
+
+<sub>- Delimitación de casos de patología y cirugía renal en la región</sub>
+
+<sub>  ¿Cuántos pacientes renales por año existen en los países de LATAM?</sub>
+<sub>  ¿Qué cantidad de cirugías renales se realizan anualmente? ¿Cuántas de ellas corresponden a transplantes?</sub>
+<sub>  ¿Cuál es el costo de una cirugía renal promedio en la región?</sub>
+
+<sub>- Comparación de costos relativos a la adquisición de las diferentes tecnologías</sub>
+
+<sub>  ¿El costo del equipo es el factor condicionante para su adquisición en LATAM dada la situación económica de la región?¿Cuáles son los factores que evalúan los clientes al momento de la compra?</sub>
+<sub>  ¿Qué parámetros o variables se deben considerar a la hora de calcular los indicadores CAPEX, OPEX, TCO aplicados a cirugía robótica renal con foco regional? ¿Y para el TAM, SAM y SOM?</sub>
+<sub>  ¿Qué características económicas permitirían a Justina ser una tecnología competitiva en el mercado actual?</sub>
+
+---
+#### 📋 Cover 
 
 ![Cover](vistas_proyecto/1_Cover.png)
+
+#### 📋 Análisis regional
 ![AR](vistas_proyecto/2_Análisis_regional.png)
+
+#### 📋 Análisis de competidores
 ![AC](vistas_proyecto/3_Analisis_de_competidores.png)
 
-### 🔎 Ver reporte completo
+---
 
-👉 **[Descargar Reporte en pdf](informes_proyecto_pdf/Reporte_BI_Justina.pdf)**
+## 📊 Explorar el Informe Interactivo
 
+#### 👉 **[Interactuá con el reporte BI completo aquí](https://app.powerbi.com/view?r=eyJrIjoiZjdjMWYyYzktZjRmZi00N2I4LTlmNzktMjJhNzI3ODFmZjk2IiwidCI6Ijc3MDI2YzQzLTFmNWMtNDEyYy1iNjg1LTJkNTM4Y2Q4NWIzMCIsImMiOjR9)**
 
 ---
 
-# 🚀 Explorar el Informe Interactivo
-
-El valor principal del proyecto está en la **exploración interactiva de los datos**.
-
-📊 Navegá el análisis completo aquí:
-
-# 👉 **[Entrar al informe de Business Intelligence](https://app.powerbi.com/view?r=eyJrIjoiZjdjMWYyYzktZjRmZi00N2I4LTlmNzktMjJhNzI3ODFmZjk2IiwidCI6Ijc3MDI2YzQzLTFmNWMtNDEyYy1iNjg1LTJkNTM4Y2Q4NWIzMCIsImMiOjR9)**
-
-Descubrí:
-
-- insights sobre el mercado de robótica quirúrgica  
-- oportunidades para nuevas tecnologías médicas  
-- análisis económico del sector healthtech  
-
----
-
-# 💡 Insights del Proyecto
+### 💡 Insights del Proyecto
 
 El análisis permite:
 
@@ -133,7 +131,7 @@ Este enfoque permite transformar **datos dispersos en decisiones estratégicas b
 
 ---
 
-# 👨‍💻 Contexto
+### 👨‍💻 Contexto
 
 Proyecto realizado en el marco de:
 
@@ -144,7 +142,7 @@ Proyecto realizado en el marco de:
 
 ## 👥 Integrantes
 
-- **Priscila Gutierrez Sídoli**  
+- **Priscila Gutierrez Sídoli**
   <a href="https://www.linkedin.com/in/priscilagsidoliiq/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
