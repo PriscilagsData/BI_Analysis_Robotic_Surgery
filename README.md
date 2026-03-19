@@ -44,8 +44,10 @@ Se construyó un **pipeline de datos completo**, desde la recolección de inform
 
 Construido a partir de código **Python** aplicando **Machine Learning con IA generativa**. Se muestra el modelo relacional creado en **SQLServer**:
 
-![Modelo SQL](vistas_proyecto/5_modelo_datos_justina_SQL_Server.png)
-  
+<p align="center">
+  <img src="vistas_proyecto/5_modelo_datos_justina_SQL_Server.png" width="800">
+</p>  
+
 ---
 
 ## 📊 Reporte BI
@@ -80,13 +82,21 @@ Construido a partir de código **Python** aplicando **Machine Learning con IA ge
 ---
 #### 📋 Cover 
 
-![Cover](vistas_proyecto/1_Cover.png)
+<p align="center">
+  <img src="vistas_proyecto/1_Cover.png" width="900">
+</p>
 
 #### 📋 Análisis regional
-![AR](vistas_proyecto/2_Análisis_regional.png)
+
+<p align="center">
+  <img src="vistas_proyecto/2_Análisis_regional.png" width="900">
+</p>
 
 #### 📋 Análisis de competidores
-![AC](vistas_proyecto/3_Analisis_de_competidores.png)
+
+<p align="center">
+  <img src="vistas_proyecto/3_Analisis_de_competidores.png" width="900">
+</p>
 
 ---
 
