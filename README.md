@@ -27,7 +27,7 @@ El resultado esperado es un **modelo de negocio en heathtech y adopción basado 
 
 ### 👩🏻‍💻 Mi rol
 
-- **Data Analyst**: planteo estratégico del problema, diseño de modelo (tabla Países, tabla Hospitales y tabla Competidores), toma de decisión del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño íntegro del tablero final definiendo insights.
+- **Data Analyst**: planteo estratégico del problema, diseño de modelo (db Países, Hospitales y Competidores), establecimiento del enfoque de la búsqueda y los objetivos del proyecto. ETL en Power Query dentro del entorno Power BI y diseño y armado del tablero final definiendo insights.
 
 - **BI Analyst**: análisis y extracción de conclusiones, KPIs y definición de futuras líneas de estudio. Redacción del informe y speech presentado.
 ---
