@@ -172,21 +172,25 @@ Proyecto realizado en el marco de:
 ## 👥 Integrantes
 
 - **Priscila Gutierrez Sídoli**
+  
   <a href="https://www.linkedin.com/in/priscilagsidoliiq/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
 
-- **Nicolas Montuelle**  
+- **Nicolas Montuelle**
+  
   <a href="https://www.linkedin.com/in/nicolasmontuelle06/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
 
-- **Camila Ayelen Durand**  
+- **Camila Ayelen Durand**
+  
   <a href="https://www.linkedin.com/in/camila-ayelen-durand/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
 
-- **Rubis Becerra**  
+- **Rubis Becerra**
+  
   <a href="https://www.linkedin.com/in/rubis-becerra/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
   </a>
