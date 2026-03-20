@@ -77,13 +77,13 @@ Se construyó un **pipeline de datos completo**, desde la recolección de inform
 #### 📋 Cover 
 
 <p align="center">
-  <img src="vistas_proyecto/1_Cover.png" width="900">
+  <img src="vistas_proyecto/1_Cover.png" width="800">
 </p>
 
 #### 📋 Análisis regional
 
 <p align="center">
-  <img src="vistas_proyecto/2_Análisis_regional.png" width="900">
+  <img src="vistas_proyecto/2_Análisis_regional.png" width="800">
 </p>
 
 - En la región latinoamericana existe un total de 19.171 hospitales, 1,3 millones de camas hospitalarias y alrededor de 50 mil quirófanos. De ese total de hospitales en la región, 43% son públicos y 57% son de gestión privada.
@@ -104,7 +104,7 @@ Esto posiciona a México dentro del top 3 de todas las consideraciones.
 #### 📋 Análisis de competidores
 
 <p align="center">
-  <img src="vistas_proyecto/3_Analisis_de_competidores.png" width="900">
+  <img src="vistas_proyecto/3_Analisis_de_competidores.png" width="800">
 </p>
 
 - El gráfico de mapa de áreas expone la predominancia de la presencia del robot Da Vinci en Latinoamérica con un 60,4% del mercado ya abarcado. Este número toma estas dimensiones a pesar de que el Precio de compra de este robot es el más alto, de unos U$D 2,5 millones, como se observa en el gráfico a su derecha (abajo).
